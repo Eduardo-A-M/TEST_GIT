@@ -1,3 +1,3 @@
 #comentario
-nombre = "Eduardo"
+nombre = "pepe"
 print(nombre)
